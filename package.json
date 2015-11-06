@@ -1,0 +1,27 @@
+{
+  "name": "protein-cdn",
+  "version": "1.0.0",
+  "description": "Content for Protein to be served from S3/CloudFront",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-s3": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ovenbits/protein-cdn.git"
+  },
+  "keywords": [
+    "protein"
+  ],
+  "author": "Adam Kirk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovenbits/protein-cdn/issues"
+  },
+  "homepage": "https://github.com/ovenbits/protein-cdn#readme"
+}
